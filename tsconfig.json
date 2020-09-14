@@ -25,6 +25,5 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/posts/[id].tsx"  ],
-  "plugins": [{ "name": "typescript-plugin-css-modules" }]
+, "pages/posts/[id].tsx"  ]  
 }
