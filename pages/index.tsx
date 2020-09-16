@@ -21,13 +21,10 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Oi, meu nome é Nicholas Alves. Eu sou aspirante a Desenvolvedor Fullstack Web e Mobile com as tecnologias React, React Native, Node.js e, agora, Next.js :P.</p>
+        <p>Oi, meu nome é Nicholas Alves. Ainda perdido sobre o que eu realmente quero estudar ou ser de fato. Por enquanto, estudando Fullstack com React, React Native, Node.js e PostgreSQL (agora Next.js também)</p>
         <p> Atualmente eu estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos.</p>
-        <a href="https://github.com/Nicholas-Alves" target="_blank">GitHub</a>
-        <br/>
-        <a href="https://www.linkedin.com/in/nicholas-alves/" target="_blank">LinkedIn</a>
-        <br/>
-        E-mail: nicholas.alves@fatec.sp.gov.br
+        <p>Me mande uma mensagem no <a href="https://www.linkedin.com/in/nicholas-alves/" target="_blank">LinkedIn</a></p>        
+        Ou um e-mail: nicholas.alves@fatec.sp.gov.br
         <br/>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
